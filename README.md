@@ -2,7 +2,7 @@
 
 <h3>
 
-  • 👨‍💻 I'm a **FullStack Developer**
+  • 👨‍💻 I'm a **Full-Stack Developer**
 
   • 💻 I have a Bachelor's Degree in **Computer Engineering**
 
