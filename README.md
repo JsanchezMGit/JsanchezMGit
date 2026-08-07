@@ -16,9 +16,6 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="text-decoration:none">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer" style="text-decoration:none">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="sql" width="40" height="40"/>
-  </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer" style="text-decoration:none">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="js" width="40" height="40"/>
   </a>
@@ -39,8 +36,8 @@
 
 <h2 align="left">Data Bases</h2>
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="MSSQL" width="40" height="40"/>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer" style="text-decoration:none">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Microsoft_SQL_Server_2025_icon.svg" alt="sql" width="40" height="40"/>
   </a>
 </p>
 
