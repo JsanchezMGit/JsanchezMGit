@@ -47,7 +47,6 @@
 <h2 align="left">Other</h2>
   <p align="left">
   <a href="https://azure.microsoft.com/es-es/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" alt="azure" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="40" height="40"/>
   </a>
 </p>
-
